@@ -30,5 +30,7 @@ Or use `run.bat` to install the recommended modules and run bot
 **با تشکر
 <br><br>
 -its'Hadi.Az'#1405**
+<br><br>
+# Examples
 ![alt text](https://raw.githubusercontent.com/hadiazt/welcomer/main/img/welcome-image.png)
 ![alt text](https://github.com/hadiazt/welcomer/blob/main/img/leave-image.png?raw=true)
