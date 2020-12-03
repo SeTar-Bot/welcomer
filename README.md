@@ -12,7 +12,7 @@ Or use `run.bat` to install the recommended modules and run bot
 <br><br>
 **🔴Do not forget to set the bot token in `config.json`🔴**
 <br>
-<img src:"https://github.com/hadiazt/welcomer/blob/main/img/leave-image.png?raw=true">
+![alt text](https://github.com/hadiazt/welcomer/blob/main/img/leave-image.png?raw=true)
 <br><br>
 #
 <br><br>
