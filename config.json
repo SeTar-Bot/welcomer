@@ -1,7 +1,8 @@
 {
-    "token":"", // Bot Token
-    "unicolor":"#8015EA", // Color
+    "token":"", 
+    "unicolor":"#8015EA", 
     "imageLink":"https://cdn.discordapp.com/attachments/754486041494159440/776295051210129408/photo-1523821741446-edb2b68bb7a0.png", // Backgroung Image
-    "welcome":"", // Welcome Channel ID
-    "by":"" // Goodby Channel ID
+    "welcome":"", 
+    "by":"" 
+
 }
